@@ -1,0 +1,6 @@
+Create new Web app project
+right click on project create new servelet file (LoginController.java)
+go till webApp - create 3 files:
+	Login.jsp
+	success.html
+	error.html
