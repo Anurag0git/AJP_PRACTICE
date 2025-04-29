@@ -20,7 +20,7 @@ string_palindrome access =
 
 (string_palindrome)Naming.lookup("rmi://localhost:5600"+"/PALINDROME");
 
-answer = access.palin("PCCOER");
+answer = access.palin(value);
 
 if (answer)
 
